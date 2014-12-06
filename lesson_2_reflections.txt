@@ -1,0 +1,13 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+
+It prepares the directory for git to use it. 
+I need to do this to have starting point for 
+commiting my changes.
+
+How is the staging area different from the 
+working directory and the repository? What 
+value do you think it offers?
+
+It is useful in case I do not want to add all
+the files in my directory to the repos.
