@@ -11,3 +11,25 @@ value do you think it offers?
 
 It is useful in case I do not want to add all
 the files in my directory to the repos.
+
+How can you use the staging area to make sure 
+you have one commit per logical change?
+
+Staging area can be used as a place to track 
+the changes within a logical change.
+
+What are some situations when branches would 
+be helpful in keeping your history organized? 
+How would branches help?
+
+Branches can be helpful when different people
+are working on differen features of a certain
+program. They are also useful when experimenting
+with a rather large code change, e.g., when adding
+an experimental feature.
+
+How do the diagrams help you visualize the 
+branch structure?
+
+They make the sometimes complicated relation
+between the commits more clear.
